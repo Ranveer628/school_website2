@@ -135,3 +135,31 @@ float: right;
 #achievementsID{
     padding-bottom: 10px;
 }
+.akshay{
+    cursor: pointer;
+}
+.akshay hr{
+    margin-bottom: 10px;
+}
+.akshay p{
+    font-size: 20px;
+    text-align: center;
+}
+.akshay img{
+    text-align: center;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-modal{
+    display: inline-block;
+    width: 500px;
+}
+.p-modal{
+   text-align: center;
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+    
+}
